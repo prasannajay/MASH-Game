@@ -1,0 +1,2 @@
+# MASH-Game
+There are 16 objects. The user inputs any integer n, and the system should go through the 16 objects n times. The nth term should be removed. If the integer is greater than 16, the system should continue counting from the beginning. After the first object is removed, the system should continue this process until there is one object left in the intervals 1st-4th, 5th-8th, 9th-12th, 13th-16th. For example, if the user chose the number 1, the result of the game should be the objects in the 4th, 8th, 12th, and 16th position.
